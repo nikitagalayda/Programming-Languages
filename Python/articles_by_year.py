@@ -1,3 +1,6 @@
+# Graphs the number of articles written by a desired author for every year for
+# which the author wrote at least 1 paper
+
 import urllib.request
 import matplotlib.pyplot as plt
 import re

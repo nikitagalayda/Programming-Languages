@@ -1,3 +1,6 @@
+# Prints all authors with which the desired author has collaborated, and number of
+# times they collaborated (collaborated = both authors took part in writing a paper)
+
 import urllib.request
 import matplotlib.pyplot as plt
 import re
